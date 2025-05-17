@@ -12,7 +12,7 @@
              │                      │
              ├──────────┬───────────┤
              │          │           │
-   [1] /sse  │  [2] /message         │  [3] /servers
+   [1] /sse  │  [2] /message        │  [3] /servers
              │          ▼           │
              │  ┌───────────────┐   │
              │  │ Routing Layer │   │
